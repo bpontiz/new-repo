@@ -1,2 +1,4 @@
-lista1 = [1,2,3]
-lista2 = [4,5,6]
+def sumar(parametroUno, parametroDos):
+    resultado = parametroUno + parametroDos
+    print(resultado)
+sumar(5,-5)
